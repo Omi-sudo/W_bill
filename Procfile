@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run W_bil.py
+web: sh setup.sh && streamlit run W_bill.py
